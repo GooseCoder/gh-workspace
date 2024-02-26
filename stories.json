@@ -1,1 +1,61 @@
-{"v":3,"stories":{"app--primary":{"id":"app--primary","name":"Primary","title":"App","importPath":"./src/app/app.stories.tsx","tags":["story"],"kind":"App","story":"Primary","parameters":{"__id":"app--primary","docsOnly":false,"fileName":"./src/app/app.stories.tsx"}},"app--heading":{"id":"app--heading","name":"Heading","title":"App","importPath":"./src/app/app.stories.tsx","tags":["play-fn","story"],"kind":"App","story":"Heading","parameters":{"__id":"app--heading","docsOnly":false,"fileName":"./src/app/app.stories.tsx"}},"nxwelcome--primary":{"id":"nxwelcome--primary","name":"Primary","title":"NxWelcome","importPath":"./src/app/nx-welcome.stories.tsx","tags":["story"],"kind":"NxWelcome","story":"Primary","parameters":{"__id":"nxwelcome--primary","docsOnly":false,"fileName":"./src/app/nx-welcome.stories.tsx"}},"nxwelcome--heading":{"id":"nxwelcome--heading","name":"Heading","title":"NxWelcome","importPath":"./src/app/nx-welcome.stories.tsx","tags":["play-fn","story"],"kind":"NxWelcome","story":"Heading","parameters":{"__id":"nxwelcome--heading","docsOnly":false,"fileName":"./src/app/nx-welcome.stories.tsx"}}}}
+{
+  "v": 3,
+  "stories": {
+    "app--primary": {
+      "id": "app--primary",
+      "name": "Primary",
+      "title": "App",
+      "importPath": "./src/app/app.stories.tsx",
+      "tags": ["story"],
+      "kind": "App",
+      "story": "Primary",
+      "parameters": {
+        "__id": "app--primary",
+        "docsOnly": false,
+        "fileName": "./src/app/app.stories.tsx"
+      }
+    },
+    "app--heading": {
+      "id": "app--heading",
+      "name": "Heading",
+      "title": "App",
+      "importPath": "./src/app/app.stories.tsx",
+      "tags": ["play-fn", "story"],
+      "kind": "App",
+      "story": "Heading",
+      "parameters": {
+        "__id": "app--heading",
+        "docsOnly": false,
+        "fileName": "./src/app/app.stories.tsx"
+      }
+    },
+    "nxwelcome--primary": {
+      "id": "nxwelcome--primary",
+      "name": "Primary",
+      "title": "NxWelcome",
+      "importPath": "./src/app/nx-welcome.stories.tsx",
+      "tags": ["story"],
+      "kind": "NxWelcome",
+      "story": "Primary",
+      "parameters": {
+        "__id": "nxwelcome--primary",
+        "docsOnly": false,
+        "fileName": "./src/app/nx-welcome.stories.tsx"
+      }
+    },
+    "nxwelcome--heading": {
+      "id": "nxwelcome--heading",
+      "name": "Heading",
+      "title": "NxWelcome",
+      "importPath": "./src/app/nx-welcome.stories.tsx",
+      "tags": ["play-fn", "story"],
+      "kind": "NxWelcome",
+      "story": "Heading",
+      "parameters": {
+        "__id": "nxwelcome--heading",
+        "docsOnly": false,
+        "fileName": "./src/app/nx-welcome.stories.tsx"
+      }
+    }
+  }
+}
